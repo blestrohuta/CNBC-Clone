@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john",
+      "email": "john@example.com",
+      "password": "password123",
+      "role": "admin",
+      "phoneNumber": "1234567890",
+      "address": "123 Main Street"
+    },
+    {
+      "id": 2,
+      "username": "jane",
+      "email": "jane@example.com",
+      "password": "password456",
+      "role": "admin",
+      "phoneNumber": "9876543210",
+      "address": "456 Elm Street"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Technology"
+    },
+    {
+      "id": 2,
+      "name": "Business"
+    },
+    {
+      "id": 3,
+      "name": "Sports"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Artificial Intelligence",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "name": "Blockchain",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "name": "Blockchain",
+      "postId": 2
+    },
+    {
+      "id": 4,
+      "name": "Football",
+      "postId": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to Artificial Intelligence",
+      "slug": "introduction-to-artificial-intelligence",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "imgUrl": "https://example.com/image1.jpg",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Understanding Blockchain Technology",
+      "slug": "understanding-blockchain-technology",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "imgUrl": "https://example.com/image2.jpg",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "The Future of Football",
+      "slug": "the-future-of-football",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "imgUrl": "https://example.com/image3.jpg",
+      "categoryId": 3,
+      "authorId": 1
+    }
+  ]
+}

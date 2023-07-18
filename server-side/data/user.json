@@ -1,0 +1,34 @@
+[
+  {
+    "username": "IU",
+    "email": "iu@gmail.com",
+    "password": "dlwlrma",
+    "role": "admin",
+    "phoneNumber": "085308530853",
+    "address": "Jl. Dago Atas"
+  },
+  {
+    "username": "Bae Suzy",
+    "email": "baesuzy@gmail.com",
+    "password": "baesuzy",
+    "role": "admin",
+    "phoneNumber": "085608560856",
+    "address": "Jl. Dago Pakar"
+  },
+  {
+    "username": "Kim Tae Ri",
+    "email": "kimtaeri@gmail.com",
+    "password": "kimtaeri",
+    "role": "admin",
+    "phoneNumber": "085108510851",
+    "address": "Jl. Cisitu Lama"
+  },
+  {
+    "username": "Yoo In-na",
+    "email": "yooinna@gmail.com",
+    "password": "yooinna",
+    "role": "admin",
+    "phoneNumber": "081208120812",
+    "address": "Jl. Cisitu Baru"
+  }
+]
